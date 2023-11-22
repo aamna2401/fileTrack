@@ -1,3 +1,2 @@
-"""
-        COPYRIGHT 2021, 2022, 2023 Bridge Placement LLC
-"""
+pywin32==302
+winshell==0.6
